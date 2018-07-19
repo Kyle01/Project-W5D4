@@ -1,0 +1,11 @@
+/* PHASE 3: Layout */
+
+.content-main {
+  background-color: yellow;
+  min-height: 200px;
+  min-width: auto;
+}
+
+.content-sidebar {
+  background-color: purple;
+}
